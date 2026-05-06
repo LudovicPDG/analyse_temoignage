@@ -1,0 +1,13 @@
+{
+  "name": "download_testimony",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "@notionhq/client": "^5.20.0"
+  }
+}
