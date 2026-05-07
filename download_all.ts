@@ -1,6 +1,6 @@
 import { Client } from '@notionhq/client'
 import { writeFileSync } from 'fs'
-import { find_pourcentage, mean, statistics_by_tens } from "./statistics"
+import { find_pourcentage, mean, statistics_by_tens, find_pourcentage_by_groupe, find_pourcentage_by_groupe_age_tens, impact_by_age_tens } from "./statistics"
 
 const notion = new Client({
   auth: process.env.NOTION_TOKEN as string,
@@ -11,7 +11,7 @@ const notion = new Client({
 // ---------------------------------------------------------------------------
 
 /** Convert any Notion property value to a plain string. */
-function extractValue(property: any): string {
+export function extractValue(property: any): string {
   if (!property) return ''
 
   switch (property.type) {
@@ -78,6 +78,18 @@ function extractValue(property: any): string {
     default:
       return ''
   }
+}
+
+function age_to_range(age: string): string {
+  const match = age.match(/\d+/)
+
+  if (!match) return "Inconnu"
+
+  const num = parseInt(match[0])
+
+  const tens = Math.floor(num / 10) * 10
+
+  return `${tens}-${tens + 9}`
 }
 
 /** Wrap a cell value so it is safe inside a CSV file. */
@@ -308,6 +320,263 @@ function createStatistics(allResults: any[]): string {
   const satisfaction_result = find_pourcentage(allResults.map((item) => extractValue(item.properties?.Satisfaction)))
   for (const item of satisfaction_result) {
     output += csvCell(`${item.value}`) + csvCell(`${item.percentage}`) + "\n"
+  }
+
+  output += "\n"
+  output += "#Impact perçu selon le niveau d'étude\n"
+
+  const impact_by_study = find_pourcentage_by_groupe(
+      allResults,
+      'Niveau_études',
+      'Impact_perçu'
+  )
+
+  for (const group of impact_by_study) {
+    output += "\n"
+    output += csvCell(group.group) + "\n"
+    output += csvCell("Impact") + csvCell("Pourcentage") + "\n"
+
+    for (const item of group.values) {
+      output += csvCell(item.value) + csvCell(item.percentage) + "\n"
+    }
+  }
+
+  output += "\n"
+  output += "#Niveau d'études selon l'impact perçu\n"
+
+  const study_by_impact = find_pourcentage_by_groupe(
+      allResults,
+      'Impact_perçu',
+      'Niveau_études'
+  )
+
+  for (const group of study_by_impact) {
+    output += "\n"
+    output += csvCell(group.group) + "\n"
+    output += csvCell("Niveau d'études") + csvCell("Pourcentage") + "\n"
+
+    for (const item of group.values) {
+      output += csvCell(item.value) + csvCell(item.percentage) + "\n"
+    }
+  }
+
+  output += "\n"
+
+  output += "#Répartition des âges selon l'impact perçu\n"
+
+  const age_by_impact = find_pourcentage_by_groupe_age_tens(
+      allResults,
+      'Impact_perçu',
+      'Age'
+  )
+
+  for (const group of age_by_impact) {
+    output += "\n"
+
+    output += csvCell(group.group) + "\n"
+
+    output += csvCell("Âge") + csvCell("Pourcentage") + "\n"
+
+    for (const item of group.values) {
+      output += csvCell(item.value) + csvCell(item.percentage) + "\n"
+    }
+  }
+
+  output += "\n#Impact perçu selon l'âge\n"
+
+  const impact_by_age = impact_by_age_tens(
+    allResults,
+    'Age',
+    'Impact_perçu'
+  )
+
+
+  for (const group of impact_by_age) {
+    output += "\n"
+    output += csvCell(group.group) + "\n"
+    output += csvCell("Impact") + csvCell("Pourcentage") + "\n"
+
+    for (const item of group.values) {
+      output += csvCell(item.value) + csvCell(item.percentage) + "\n"
+    }
+  }
+
+  output += "\n"
+  output += "#Secteur d'activité selon l'impact perçu\n"
+
+  const activity_by_impact = find_pourcentage_by_groupe(
+      allResults,
+      'Impact_perçu',
+      'Secteur_activité'
+  )
+
+  for (const group of activity_by_impact) {
+    output += "\n"
+    output += csvCell(group.group) + "\n"
+    output += csvCell("Secteur d'activité") + csvCell("Pourcentage") + "\n"
+
+    for (const item of group.values) {
+      output += csvCell(item.value) + csvCell(item.percentage) + "\n"
+    }
+  }
+
+  output += "\n"
+  output += "#Impact perçu selon le secteur d'activité\n"
+
+  const impact_by_activity = find_pourcentage_by_groupe(
+      allResults,
+      'Secteur_activité',
+      'Impact_perçu'
+  )
+
+  for (const group of impact_by_activity) {
+    output += "\n"
+    output += csvCell(group.group) + "\n"
+    output += csvCell("Impact") + csvCell("Pourcentage") + "\n"
+
+    for (const item of group.values) {
+      output += csvCell(item.value) + csvCell(item.percentage) + "\n"
+    }
+  }
+
+  output += "\n"
+  output += "#Profession selon l'impact perçu\n"
+
+  const profession_by_impact = find_pourcentage_by_groupe(
+      allResults,
+      'Impact_perçu',
+      'Profession'
+  )
+
+  for (const group of profession_by_impact) {
+    output += "\n"
+    output += csvCell(group.group) + "\n"
+    output += csvCell("Profession") + csvCell("Pourcentage") + "\n"
+
+    for (const item of group.values) {
+      output += csvCell(item.value) + csvCell(item.percentage) + "\n"
+    }
+  }
+
+  output += "\n#Impact perçu selon la profession\n"
+
+  const impact_by_profession = find_pourcentage_by_groupe(
+      allResults,
+      'Profession',
+      'Impact_perçu'
+  )
+
+  for (const group of impact_by_profession) {
+    output += "\n"
+    output += csvCell(group.group) + "\n"
+    output += csvCell("Impact") + csvCell("Pourcentage") + "\n"
+
+    for (const item of group.values) {
+      output += csvCell(item.value) + csvCell(item.percentage) + "\n"
+    }
+  }
+
+  output += "\n#Impact selon le genre"
+
+  const impact_by_genre = find_pourcentage_by_groupe(
+      allResults,
+      'Impact_perçu',
+      'Sexe'
+  )
+
+  for (const group of impact_by_genre) {
+    output += "\n"
+    output += csvCell(group.group) + "\n"
+    output += csvCell("Genre") + csvCell("Pourcentage") + "\n"
+
+    for (const item of group.values) {
+      output += csvCell(item.value) + csvCell(item.percentage) + "\n"
+    }
+  }
+
+  output += "\n#Genre selon l'impact perçu\n"
+
+  const genre_by_impact = find_pourcentage_by_groupe(
+      allResults,
+      'Sexe',
+      'Impact_perçu'
+  )
+
+  for (const group of genre_by_impact) {
+    output += "\n"
+    output += csvCell(group.group) + "\n"
+    output += csvCell("Impact") + csvCell("Pourcentage") + "\n"
+
+    for (const item of group.values) {
+      output += csvCell(item.value) + csvCell(item.percentage) + "\n"
+    }
+  }
+
+  const additionalFields = [
+    { key: 'Fréquence_info_IA', label: "Fréquence d'information" },
+    { key: 'Rapport_à_IA', label: "Rapport à l'IA" },
+    { key: 'Fréquence_utilisation', label: "Fréquence d'utilisation" },
+    { key: 'Tâche_IA', label: "Tâche d'IA" },
+    { key: 'Raisons_utilisation', label: "Raisons d'utilisation" },
+    { key: 'Satisfaction', label: "Satisfaction" },
+  ];
+
+  const demoFields = [
+    { key: 'Niveau_études', label: "Niveau d'études" },
+    { key: 'Secteur_activité', label: "Secteur d'activité" },
+    { key: 'Profession', label: "Profession" },
+    { key: 'Sexe', label: "Genre" },
+  ];
+
+  for (const field of additionalFields) {
+    output += `\n\n# ===========================================================================\n`
+    output += `# ANALYSES CROISÉES POUR : ${field.label.toUpperCase()}\n`
+    output += `# ===========================================================================\n`
+
+    for (const demo of demoFields) {
+      // 1. Field selon Demo
+      output += `\n#${field.label} selon le ${demo.label.toLowerCase()}\n`
+      const field_by_demo = find_pourcentage_by_groupe(allResults, demo.key, field.key)
+      for (const group of field_by_demo) {
+        output += "\n" + csvCell(group.group) + "\n"
+        output += csvCell(field.label) + csvCell("Pourcentage") + "\n"
+        for (const item of group.values) {
+          output += csvCell(item.value) + csvCell(item.percentage) + "\n"
+        }
+      }
+
+      // 2. Demo selon Field
+      output += `\n#${demo.label} selon : ${field.label}\n`
+      const demo_by_field = find_pourcentage_by_groupe(allResults, field.key, demo.key)
+      for (const group of demo_by_field) {
+        output += "\n" + csvCell(group.group) + "\n"
+        output += csvCell(demo.label) + csvCell("Pourcentage") + "\n"
+        for (const item of group.values) {
+          output += csvCell(item.value) + csvCell(item.percentage) + "\n"
+        }
+      }
+    }
+
+    // 3. Age cross
+    output += `\n#${field.label} selon l'âge\n`
+    const field_by_age = impact_by_age_tens(allResults, 'Age', field.key)
+    for (const group of field_by_age) {
+      output += "\n" + csvCell(group.group) + "\n"
+      output += csvCell(field.label) + csvCell("Pourcentage") + "\n"
+      for (const item of group.values) {
+        output += csvCell(item.value) + csvCell(item.percentage) + "\n"
+      }
+    }
+
+    output += `\n#Répartition des âges selon : ${field.label}\n`
+    const age_by_field = find_pourcentage_by_groupe_age_tens(allResults, field.key, 'Age')
+    for (const group of age_by_field) {
+      output += "\n" + csvCell(group.group) + "\n"
+      output += csvCell("Âge") + csvCell("Pourcentage") + "\n"
+      for (const item of group.values) {
+        output += csvCell(item.value) + csvCell(item.percentage) + "\n"
+      }
+    }
   }
 
   return output
