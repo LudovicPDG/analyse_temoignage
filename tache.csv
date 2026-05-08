@@ -1,0 +1,3339 @@
+# ===========================================================================
+# ANALYSES CROISÉES POUR : TÂCHE D'IA
+# ===========================================================================
+
+#Tâche d'IA selon le niveau d'études
+
+"Bac +5"
+"Tâche d'IA""Pourcentage"
+"Analyse / Résumé de document (texte, vidéo...)""16.19%"
+"Correction et rédaction de texte""13.33%"
+"Codage""12.38%"
+"Prise de décision / aide à la décision""9.52%"
+"Analyse de données""8.57%"
+"Automatisation de tâches répétitives""7.62%"
+"Traduction""7.62%"
+"Gestion de planning / projet""4.76%"
+"Gestion relationnelle (chatbot, mail..)""2.86%"
+"Génération d’images, de sons, de vidéos""2.86%"
+"Génération d'images, de sons, de vidéos""1.90%"
+"aucune, ce sont mes prévisions""0.95%"
+"Recherche documentaire""0.95%"
+"Formation sur de nouveaux sujets.""0.95%"
+"J'utilise l'IA - de plus en plus rarement, par choix - après avoir bien investigué et travaillé un sujet pour confronter ma production avec celle de l'IA""0.95%"
+"Brainstorming / me documenter sur un nouvau sujet""0.95%"
+"Création de structures de documents pour documentation applicative ou présentations PPT tel'es que comités de suivi""0.95%"
+"Bibliographie et recherche documentaires""0.95%"
+"Génération d'idées""0.95%"
+"Code""0.95%"
+"Aidé à la rédaction, aide formule Excel,""0.95%"
+"Trouver des idées""0.95%"
+"j'ai suivi une formation waalaxy. Idem sur les réseaux sociaux qui en sont truffés.""0.95%"
+"Quand je recherche des infos précises sur un sujet pointu mais que je ne trouve pas d'infos / les recherches sont trop longues""0.95%"
+
+"> Bac +5"
+"Tâche d'IA""Pourcentage"
+"Analyse / Résumé de document (texte, vidéo...)""27.59%"
+"Traduction""24.14%"
+"Correction et rédaction de texte""13.79%"
+"Analyse de données""10.34%"
+"aide à la recherche bibliographique""3.45%"
+"Automatisation de tâches répétitives""3.45%"
+"Codage""3.45%"
+"Gestion de planning / projet""3.45%"
+"Gestion relationnelle (chatbot, mail..)""3.45%"
+"Pour avoir des idées d'activités pédagogiques je peux m'inspirer de ses propositions""3.45%"
+"Génération d’images, de sons, de vidéos""3.45%"
+
+"Bac +2 ou bac +3"
+"Tâche d'IA""Pourcentage"
+"Analyse / Résumé de document (texte, vidéo...)""14.81%"
+"Traduction""14.81%"
+"Correction et rédaction de texte""14.81%"
+"Génération d'images, de sons, de vidéos""9.26%"
+"Automatisation de tâches répétitives""9.26%"
+"Codage""9.26%"
+"Prise de décision / aide à la décision""9.26%"
+"Analyse de données""7.41%"
+"Gestion relationnelle (chatbot, mail..)""5.56%"
+"Gestion de planning / projet""1.85%"
+"J'ai utilisé pour la première fois l'IA dans le sous-titrage automatique sur instagram pour la vidéo teaser de Réveillons-nous, et ai grincé des dents en le faisant.""1.85%"
+"question technique (mais notre IA n'a jamais la réponse) en plus d'être autrice je travaille dans un grand service public""1.85%"
+
+"Aucun diplôme / Brevet des collèges"
+"Tâche d'IA""Pourcentage"
+"Correction et rédaction de texte""30.00%"
+"Génération d'images, de sons, de vidéos""20.00%"
+"Analyse / Résumé de document (texte, vidéo...)""20.00%"
+"Traduction""20.00%"
+"Gestion relationnelle (chatbot, mail..)""10.00%"
+
+"Bac général"
+"Tâche d'IA""Pourcentage"
+"Analyse / Résumé de document (texte, vidéo...)""16.67%"
+"Codage""16.67%"
+"Correction et rédaction de texte""11.11%"
+"Automatisation de tâches répétitives""11.11%"
+"Prise de décision / aide à la décision""11.11%"
+"Traduction""11.11%"
+"Gestion relationnelle (chatbot, mail..)""5.56%"
+"Génération d’images, de sons, de vidéos""5.56%"
+"Analyse de données""5.56%"
+"Pilotage/contrôle de dispositifs connectés""5.56%"
+
+"Ne souhaite pas répondre"
+"Tâche d'IA""Pourcentage"
+"Analyse / Résumé de document (texte, vidéo...)""15.38%"
+"Traduction""15.38%"
+"Gestion de planning / projet""15.38%"
+"Analyse de données""15.38%"
+"Prise de décision / aide à la décision""15.38%"
+"Gestion relationnelle (chatbot, mail..)""7.69%"
+"Génération d'images, de sons, de vidéos""7.69%"
+"Automatisation de tâches répétitives""7.69%"
+
+#Niveau d'études selon : Tâche d'IA
+
+"Correction et rédaction de texte
+
+Prise de décision / aide à la décision"
+"Niveau d'études""Pourcentage"
+"Bac +5""100.00%"
+
+"aucune, ce sont mes prévisions"
+"Niveau d'études""Pourcentage"
+"Bac +5""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Codage
+
+Gestion de planning / projet
+
+Analyse de données"
+"Niveau d'études""Pourcentage"
+"Bac +5""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)"
+"Niveau d'études""Pourcentage"
+"> Bac +5""25.00%"
+"Bac +5""25.00%"
+"Bac général""25.00%"
+"Bac +2 ou bac +3""25.00%"
+
+"Génération d'images, de sons, de vidéos
+
+Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Correction et rédaction de texte
+
+Automatisation de tâches répétitives
+
+Codage
+
+Gestion de planning / projet
+
+Analyse de données
+
+Prise de décision / aide à la décision"
+"Niveau d'études""Pourcentage"
+"Bac +2 ou bac +3""50.00%"
+"Bac +5""50.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Correction et rédaction de texte"
+"Niveau d'études""Pourcentage"
+"Bac +5""100.00%"
+
+"Codage
+
+Analyse de données
+
+Recherche documentaire"
+"Niveau d'études""Pourcentage"
+"Bac +5""100.00%"
+
+"Automatisation de tâches répétitives
+
+Gestion de planning / projet
+
+Gestion relationnelle (chatbot, mail..)"
+"Niveau d'études""Pourcentage"
+"Bac +5""100.00%"
+
+"Codage
+
+Analyse de données
+
+Gestion relationnelle (chatbot, mail..)"
+"Niveau d'études""Pourcentage"
+"Bac +5""100.00%"
+
+"Génération d'images, de sons, de vidéos
+
+Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Correction et rédaction de texte
+
+Gestion relationnelle (chatbot, mail..)"
+"Niveau d'études""Pourcentage"
+"Aucun diplôme / Brevet des collèges""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Analyse de données"
+"Niveau d'études""Pourcentage"
+"> Bac +5""100.00%"
+
+"Correction et rédaction de texte"
+"Niveau d'études""Pourcentage"
+"Bac +5""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Correction et rédaction de texte
+
+Automatisation de tâches répétitives
+
+Codage
+
+Gestion relationnelle (chatbot, mail..)
+
+Prise de décision / aide à la décision"
+"Niveau d'études""Pourcentage"
+"Bac général""100.00%"
+
+"Codage"
+"Niveau d'études""Pourcentage"
+"Bac +5""100.00%"
+
+"Correction et rédaction de texte
+
+Automatisation de tâches répétitives
+
+Codage
+
+Analyse de données
+
+Prise de décision / aide à la décision"
+"Niveau d'études""Pourcentage"
+"Bac +5""100.00%"
+
+"Génération d'images, de sons, de vidéos
+
+Correction et rédaction de texte"
+"Niveau d'études""Pourcentage"
+"Aucun diplôme / Brevet des collèges""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Gestion de planning / projet
+
+Analyse de données
+
+Gestion relationnelle (chatbot, mail..)
+
+Prise de décision / aide à la décision"
+"Niveau d'études""Pourcentage"
+"Ne souhaite pas répondre""100.00%"
+
+"aide à la recherche bibliographique"
+"Niveau d'études""Pourcentage"
+"> Bac +5""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Correction et rédaction de texte"
+"Niveau d'études""Pourcentage"
+"> Bac +5""50.00%"
+"Bac +5""16.67%"
+"Aucun diplôme / Brevet des collèges""16.67%"
+"Bac +2 ou bac +3""16.67%"
+
+"Génération d'images, de sons, de vidéos
+
+Analyse / Résumé de document (texte, vidéo...)
+
+Automatisation de tâches répétitives
+
+Codage
+
+Analyse de données
+
+Gestion relationnelle (chatbot, mail..)
+
+Prise de décision / aide à la décision"
+"Niveau d'études""Pourcentage"
+"Bac +2 ou bac +3""100.00%"
+
+"Traduction
+
+Automatisation de tâches répétitives
+
+Codage"
+"Niveau d'études""Pourcentage"
+"Bac général""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Gestion de planning / projet
+
+Gestion relationnelle (chatbot, mail..)"
+"Niveau d'études""Pourcentage"
+"Bac +5""100.00%"
+
+"Génération d'images, de sons, de vidéos
+
+Analyse / Résumé de document (texte, vidéo...)
+
+Correction et rédaction de texte
+
+Automatisation de tâches répétitives
+
+Prise de décision / aide à la décision"
+"Niveau d'études""Pourcentage"
+"Bac +5""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Correction et rédaction de texte
+
+Automatisation de tâches répétitives
+
+Analyse de données
+
+Prise de décision / aide à la décision"
+"Niveau d'études""Pourcentage"
+"Bac +2 ou bac +3""100.00%"
+
+"J'ai utilisé pour la première fois l'IA dans le sous-titrage automatique sur instagram pour la vidéo teaser de Réveillons-nous, et ai grincé des dents en le faisant."
+"Niveau d'études""Pourcentage"
+"Bac +2 ou bac +3""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Codage
+
+Formation sur de nouveaux sujets."
+"Niveau d'études""Pourcentage"
+"Bac +5""100.00%"
+
+"Automatisation de tâches répétitives
+
+Analyse de données
+
+Prise de décision / aide à la décision"
+"Niveau d'études""Pourcentage"
+"Bac +5""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Correction et rédaction de texte
+
+Automatisation de tâches répétitives
+
+Codage
+
+Gestion de planning / projet
+
+Analyse de données"
+"Niveau d'études""Pourcentage"
+"> Bac +5""50.00%"
+"Bac +5""50.00%"
+
+"Génération d'images, de sons, de vidéos
+
+Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Correction et rédaction de texte"
+"Niveau d'études""Pourcentage"
+"Bac +2 ou bac +3""100.00%"
+
+"Prise de décision / aide à la décision"
+"Niveau d'études""Pourcentage"
+"Bac +5""100.00%"
+
+"Automatisation de tâches répétitives
+
+Codage"
+"Niveau d'études""Pourcentage"
+"Bac +5""100.00%"
+
+"Traduction
+
+Correction et rédaction de texte
+
+Automatisation de tâches répétitives
+
+Codage"
+"Niveau d'études""Pourcentage"
+"Bac +2 ou bac +3""100.00%"
+
+"J'utilise l'IA - de plus en plus rarement, par choix - après avoir bien investigué et travaillé un sujet pour confronter ma production avec celle de l'IA"
+"Niveau d'études""Pourcentage"
+"Bac +5""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Prise de décision / aide à la décision"
+"Niveau d'études""Pourcentage"
+"Bac +5""100.00%"
+
+"question technique (mais notre IA n'a jamais la réponse) en plus d'être autrice je travaille dans un grand service public"
+"Niveau d'études""Pourcentage"
+"Bac +2 ou bac +3""100.00%"
+
+"Traduction"
+"Niveau d'études""Pourcentage"
+"Bac +5""100.00%"
+
+"Automatisation de tâches répétitives
+
+Codage
+
+Brainstorming / me documenter sur un nouvau sujet"
+"Niveau d'études""Pourcentage"
+"Bac +5""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Correction et rédaction de texte
+
+Création de structures de documents pour documentation applicative ou présentations PPT tel'es que comités de suivi"
+"Niveau d'études""Pourcentage"
+"Bac +5""100.00%"
+
+"Gestion relationnelle (chatbot, mail..)"
+"Niveau d'études""Pourcentage"
+"> Bac +5""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Pour avoir des idées d'activités pédagogiques je peux m'inspirer de ses propositions"
+"Niveau d'études""Pourcentage"
+"> Bac +5""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Codage
+
+Analyse de données
+
+Bibliographie et recherche documentaires"
+"Niveau d'études""Pourcentage"
+"Bac +5""100.00%"
+
+"Correction et rédaction de texte
+
+Génération d'idées"
+"Niveau d'études""Pourcentage"
+"Bac +5""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Code"
+"Niveau d'études""Pourcentage"
+"Bac +5""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Correction et rédaction de texte
+
+Automatisation de tâches répétitives
+
+Codage
+
+Prise de décision / aide à la décision"
+"Niveau d'études""Pourcentage"
+"Bac +2 ou bac +3""100.00%"
+
+"Génération d'images, de sons, de vidéos
+
+Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Correction et rédaction de texte
+
+Gestion relationnelle (chatbot, mail..)
+
+Prise de décision / aide à la décision"
+"Niveau d'études""Pourcentage"
+"Bac +2 ou bac +3""100.00%"
+
+"Génération d'images, de sons, de vidéos"
+"Niveau d'études""Pourcentage"
+"Bac +2 ou bac +3""100.00%"
+
+"Génération d'images, de sons, de vidéos
+
+Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Automatisation de tâches répétitives
+
+Gestion de planning / projet
+
+Analyse de données
+
+Prise de décision / aide à la décision"
+"Niveau d'études""Pourcentage"
+"Ne souhaite pas répondre""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+ Codage
+
+Aidé à la rédaction, aide formule Excel,"
+"Niveau d'études""Pourcentage"
+"Bac +5""100.00%"
+
+"Traduction
+
+Gestion relationnelle (chatbot, mail..)"
+"Niveau d'études""Pourcentage"
+"Bac +2 ou bac +3""100.00%"
+
+"Génération d’images, de sons, de vidéos
+
+Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Correction et rédaction de texte
+
+Prise de décision / aide à la décision
+
+Trouver des idées"
+"Niveau d'études""Pourcentage"
+"Bac +5""100.00%"
+
+"Génération d’images, de sons, de vidéos
+
+j'ai suivi une formation waalaxy. Idem sur les réseaux sociaux qui en sont truffés."
+"Niveau d'études""Pourcentage"
+"Bac +5""100.00%"
+
+"Génération d’images, de sons, de vidéos
+
+Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Analyse de données"
+"Niveau d'études""Pourcentage"
+"> Bac +5""100.00%"
+
+"Quand je recherche des infos précises sur un sujet pointu mais que je ne trouve pas d'infos / les recherches sont trop longues"
+"Niveau d'études""Pourcentage"
+"Bac +5""100.00%"
+
+"Génération d’images, de sons, de vidéos
+
+Traduction
+
+Correction et rédaction de texte
+
+Codage"
+"Niveau d'études""Pourcentage"
+"Bac général""100.00%"
+
+"Correction et rédaction de texte
+
+Codage
+
+Analyse de données"
+"Niveau d'études""Pourcentage"
+"Bac +2 ou bac +3""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Analyse de données
+
+Pilotage/contrôle de dispositifs connectés
+
+Prise de décision / aide à la décision"
+"Niveau d'études""Pourcentage"
+"Bac général""100.00%"
+
+"Traduction
+
+Correction et rédaction de texte
+
+Codage
+
+Prise de décision / aide à la décision"
+"Niveau d'études""Pourcentage"
+"Bac +5""100.00%"
+
+"Génération d’images, de sons, de vidéos
+
+Analyse / Résumé de document (texte, vidéo...)
+
+Correction et rédaction de texte
+
+Analyse de données
+
+Prise de décision / aide à la décision"
+"Niveau d'études""Pourcentage"
+"Bac +5""100.00%"
+
+#Tâche d'IA selon le secteur d'activité
+
+"Service public, défense et sécurité"
+"Tâche d'IA""Pourcentage"
+"Analyse / Résumé de document (texte, vidéo...)""30.77%"
+"Correction et rédaction de texte""23.08%"
+"Prise de décision / aide à la décision""15.38%"
+"Traduction""15.38%"
+"Génération d’images, de sons, de vidéos""7.69%"
+"Trouver des idées""7.69%"
+
+"Culture et patrimoine"
+"Tâche d'IA""Pourcentage"
+"aucune, ce sont mes prévisions""20.00%"
+"Analyse / Résumé de document (texte, vidéo...)""20.00%"
+"J'ai utilisé pour la première fois l'IA dans le sous-titrage automatique sur instagram pour la vidéo teaser de Réveillons-nous, et ai grincé des dents en le faisant.""20.00%"
+"question technique (mais notre IA n'a jamais la réponse) en plus d'être autrice je travaille dans un grand service public""20.00%"
+"Génération d'images, de sons, de vidéos""20.00%"
+
+"Informatique et télécommunication"
+"Tâche d'IA""Pourcentage"
+"Analyse / Résumé de document (texte, vidéo...)""15.79%"
+"Codage""12.63%"
+"Automatisation de tâches répétitives""12.63%"
+"Traduction""11.58%"
+"Correction et rédaction de texte""11.58%"
+"Analyse de données""10.53%"
+"Prise de décision / aide à la décision""9.47%"
+"Gestion de planning / projet""5.26%"
+"Génération d'images, de sons, de vidéos""4.21%"
+"Gestion relationnelle (chatbot, mail..)""1.05%"
+"Formation sur de nouveaux sujets.""1.05%"
+"Brainstorming / me documenter sur un nouvau sujet""1.05%"
+"Création de structures de documents pour documentation applicative ou présentations PPT tel'es que comités de suivi""1.05%"
+"Code""1.05%"
+"Pilotage/contrôle de dispositifs connectés""1.05%"
+
+"Santé"
+"Tâche d'IA""Pourcentage"
+"Analyse / Résumé de document (texte, vidéo...)""22.22%"
+"Codage""22.22%"
+"Gestion relationnelle (chatbot, mail..)""22.22%"
+"Correction et rédaction de texte""11.11%"
+"Automatisation de tâches répétitives""11.11%"
+"Prise de décision / aide à la décision""11.11%"
+
+"Energie"
+"Tâche d'IA""Pourcentage"
+"Codage""30.00%"
+"Analyse de données""30.00%"
+"Recherche documentaire""10.00%"
+"Analyse / Résumé de document (texte, vidéo...)""10.00%"
+"Bibliographie et recherche documentaires""10.00%"
+"Correction et rédaction de texte""10.00%"
+
+"Juridique"
+"Tâche d'IA""Pourcentage"
+"Automatisation de tâches répétitives""33.33%"
+"Gestion de planning / projet""33.33%"
+"Gestion relationnelle (chatbot, mail..)""33.33%"
+
+"Gestion administrative et RH"
+"Tâche d'IA""Pourcentage"
+"Codage""16.67%"
+"Analyse de données""16.67%"
+"Gestion relationnelle (chatbot, mail..)""16.67%"
+"Analyse / Résumé de document (texte, vidéo...)""16.67%"
+"Traduction""16.67%"
+"Correction et rédaction de texte""16.67%"
+
+"Aucun"
+"Tâche d'IA""Pourcentage"
+"Génération d'images, de sons, de vidéos""20.00%"
+"Analyse / Résumé de document (texte, vidéo...)""20.00%"
+"Traduction""20.00%"
+"Correction et rédaction de texte""20.00%"
+"Gestion relationnelle (chatbot, mail..)""20.00%"
+
+"Recherche"
+"Tâche d'IA""Pourcentage"
+"Analyse / Résumé de document (texte, vidéo...)""23.53%"
+"Traduction""23.53%"
+"Analyse de données""11.76%"
+"Correction et rédaction de texte""11.76%"
+"aide à la recherche bibliographique""5.88%"
+"Pour avoir des idées d'activités pédagogiques je peux m'inspirer de ses propositions""5.88%"
+"Automatisation de tâches répétitives""5.88%"
+"Codage""5.88%"
+"Gestion de planning / projet""5.88%"
+
+"Finance, banque et assurance"
+"Tâche d'IA""Pourcentage"
+"Correction et rédaction de texte""100.00%"
+
+"Automobile"
+"Tâche d'IA""Pourcentage"
+"Correction et rédaction de texte""20.00%"
+"Automatisation de tâches répétitives""20.00%"
+"Codage""20.00%"
+"Analyse de données""20.00%"
+"Prise de décision / aide à la décision""20.00%"
+
+"Chimie analytique"
+"Tâche d'IA""Pourcentage"
+"Génération d'images, de sons, de vidéos""50.00%"
+"Correction et rédaction de texte""50.00%"
+
+"Commerce et distribution"
+"Tâche d'IA""Pourcentage"
+"Analyse / Résumé de document (texte, vidéo...)""16.67%"
+"Traduction""16.67%"
+"Gestion de planning / projet""16.67%"
+"Analyse de données""16.67%"
+"Gestion relationnelle (chatbot, mail..)""16.67%"
+"Prise de décision / aide à la décision""16.67%"
+
+"Graphisme"
+"Tâche d'IA""Pourcentage"
+"Traduction""33.33%"
+"Automatisation de tâches répétitives""33.33%"
+"Codage""33.33%"
+
+"Conseil"
+"Tâche d'IA""Pourcentage"
+"Analyse / Résumé de document (texte, vidéo...)""33.33%"
+"Gestion de planning / projet""33.33%"
+"Gestion relationnelle (chatbot, mail..)""33.33%"
+
+"Immobilier"
+"Tâche d'IA""Pourcentage"
+"Génération d'images, de sons, de vidéos""20.00%"
+"Analyse / Résumé de document (texte, vidéo...)""20.00%"
+"Correction et rédaction de texte""20.00%"
+"Automatisation de tâches répétitives""20.00%"
+"Prise de décision / aide à la décision""20.00%"
+
+"Communication et marketing"
+"Tâche d'IA""Pourcentage"
+"Analyse / Résumé de document (texte, vidéo...)""26.32%"
+"Correction et rédaction de texte""21.05%"
+"Traduction""10.53%"
+"Prise de décision / aide à la décision""10.53%"
+"Génération d'images, de sons, de vidéos""5.26%"
+"Génération d'idées""5.26%"
+"Codage""5.26%"
+"Aidé à la rédaction, aide formule Excel,""5.26%"
+"Génération d’images, de sons, de vidéos""5.26%"
+"Analyse de données""5.26%"
+
+"Artisanat"
+"Tâche d'IA""Pourcentage"
+"Prise de décision / aide à la décision""33.33%"
+"Traduction""33.33%"
+"Gestion relationnelle (chatbot, mail..)""33.33%"
+
+"Activités juridiques et comptables"
+"Tâche d'IA""Pourcentage"
+"J'utilise l'IA - de plus en plus rarement, par choix - après avoir bien investigué et travaillé un sujet pour confronter ma production avec celle de l'IA""100.00%"
+
+"Traduction"
+"Tâche d'IA""Pourcentage"
+"Traduction""100.00%"
+
+"Inactif"
+"Tâche d'IA""Pourcentage"
+"Génération d'images, de sons, de vidéos""16.67%"
+"Analyse / Résumé de document (texte, vidéo...)""16.67%"
+"Traduction""16.67%"
+"Correction et rédaction de texte""16.67%"
+"Gestion relationnelle (chatbot, mail..)""16.67%"
+"Prise de décision / aide à la décision""16.67%"
+
+"Autres"
+"Tâche d'IA""Pourcentage"
+"Génération d’images, de sons, de vidéos""20.00%"
+"Analyse / Résumé de document (texte, vidéo...)""20.00%"
+"Traduction""20.00%"
+"j'ai suivi une formation waalaxy. Idem sur les réseaux sociaux qui en sont truffés.""10.00%"
+"Analyse de données""10.00%"
+"Quand je recherche des infos précises sur un sujet pointu mais que je ne trouve pas d'infos / les recherches sont trop longues""10.00%"
+"Correction et rédaction de texte""10.00%"
+
+"Maintenance entretien et nettoyage"
+"Tâche d'IA""Pourcentage"
+"Génération d’images, de sons, de vidéos""25.00%"
+"Traduction""25.00%"
+"Correction et rédaction de texte""25.00%"
+"Codage""25.00%"
+
+#Secteur d'activité selon : Tâche d'IA
+
+"Correction et rédaction de texte
+
+Prise de décision / aide à la décision"
+"Secteur d'activité""Pourcentage"
+"Service public, défense et sécurité""100.00%"
+
+"aucune, ce sont mes prévisions"
+"Secteur d'activité""Pourcentage"
+"Culture et patrimoine""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Codage
+
+Gestion de planning / projet
+
+Analyse de données"
+"Secteur d'activité""Pourcentage"
+"Informatique et télécommunication""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)"
+"Secteur d'activité""Pourcentage"
+"Service public, défense et sécurité""50.00%"
+"Santé""25.00%"
+"Culture et patrimoine""25.00%"
+
+"Génération d'images, de sons, de vidéos
+
+Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Correction et rédaction de texte
+
+Automatisation de tâches répétitives
+
+Codage
+
+Gestion de planning / projet
+
+Analyse de données
+
+Prise de décision / aide à la décision"
+"Secteur d'activité""Pourcentage"
+"Informatique et télécommunication""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Correction et rédaction de texte"
+"Secteur d'activité""Pourcentage"
+"Informatique et télécommunication""100.00%"
+
+"Codage
+
+Analyse de données
+
+Recherche documentaire"
+"Secteur d'activité""Pourcentage"
+"Energie""100.00%"
+
+"Automatisation de tâches répétitives
+
+Gestion de planning / projet
+
+Gestion relationnelle (chatbot, mail..)"
+"Secteur d'activité""Pourcentage"
+"Juridique""100.00%"
+
+"Codage
+
+Analyse de données
+
+Gestion relationnelle (chatbot, mail..)"
+"Secteur d'activité""Pourcentage"
+"Gestion administrative et RH""100.00%"
+
+"Génération d'images, de sons, de vidéos
+
+Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Correction et rédaction de texte
+
+Gestion relationnelle (chatbot, mail..)"
+"Secteur d'activité""Pourcentage"
+"Aucun""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Analyse de données"
+"Secteur d'activité""Pourcentage"
+"Recherche""100.00%"
+
+"Correction et rédaction de texte"
+"Secteur d'activité""Pourcentage"
+"Finance, banque et assurance""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Correction et rédaction de texte
+
+Automatisation de tâches répétitives
+
+Codage
+
+Analyse de données"
+"Secteur d'activité""Pourcentage"
+"Informatique et télécommunication""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Correction et rédaction de texte
+
+Automatisation de tâches répétitives
+
+Codage
+
+Gestion relationnelle (chatbot, mail..)
+
+Prise de décision / aide à la décision"
+"Secteur d'activité""Pourcentage"
+"Santé""100.00%"
+
+"Codage"
+"Secteur d'activité""Pourcentage"
+"Santé""100.00%"
+
+"Correction et rédaction de texte
+
+Automatisation de tâches répétitives
+
+Codage
+
+Analyse de données
+
+Prise de décision / aide à la décision"
+"Secteur d'activité""Pourcentage"
+"Automobile""100.00%"
+
+"Génération d'images, de sons, de vidéos
+
+Correction et rédaction de texte"
+"Secteur d'activité""Pourcentage"
+"Chimie analytique""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Gestion de planning / projet
+
+Analyse de données
+
+Gestion relationnelle (chatbot, mail..)
+
+Prise de décision / aide à la décision"
+"Secteur d'activité""Pourcentage"
+"Commerce et distribution""100.00%"
+
+"aide à la recherche bibliographique"
+"Secteur d'activité""Pourcentage"
+"Recherche""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Correction et rédaction de texte"
+"Secteur d'activité""Pourcentage"
+"Recherche""20.00%"
+"Gestion administrative et RH""20.00%"
+"Communication et marketing""20.00%"
+"Service public, défense et sécurité""20.00%"
+"Autres""20.00%"
+
+"Génération d'images, de sons, de vidéos
+
+Analyse / Résumé de document (texte, vidéo...)
+
+Automatisation de tâches répétitives
+
+Codage
+
+Analyse de données
+
+Gestion relationnelle (chatbot, mail..)
+
+Prise de décision / aide à la décision"
+"Secteur d'activité""Pourcentage"
+"Informatique et télécommunication""100.00%"
+
+"Traduction
+
+Automatisation de tâches répétitives
+
+Codage"
+"Secteur d'activité""Pourcentage"
+"Graphisme""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Gestion de planning / projet
+
+Gestion relationnelle (chatbot, mail..)"
+"Secteur d'activité""Pourcentage"
+"Conseil""100.00%"
+
+"Génération d'images, de sons, de vidéos
+
+Analyse / Résumé de document (texte, vidéo...)
+
+Correction et rédaction de texte
+
+Automatisation de tâches répétitives
+
+Prise de décision / aide à la décision"
+"Secteur d'activité""Pourcentage"
+"Immobilier""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Correction et rédaction de texte
+
+Automatisation de tâches répétitives
+
+Analyse de données
+
+Prise de décision / aide à la décision"
+"Secteur d'activité""Pourcentage"
+"Informatique et télécommunication""100.00%"
+
+"J'ai utilisé pour la première fois l'IA dans le sous-titrage automatique sur instagram pour la vidéo teaser de Réveillons-nous, et ai grincé des dents en le faisant."
+"Secteur d'activité""Pourcentage"
+"Culture et patrimoine""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Codage
+
+Formation sur de nouveaux sujets."
+"Secteur d'activité""Pourcentage"
+"Informatique et télécommunication""100.00%"
+
+"Automatisation de tâches répétitives
+
+Analyse de données
+
+Prise de décision / aide à la décision"
+"Secteur d'activité""Pourcentage"
+"Informatique et télécommunication""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Correction et rédaction de texte
+
+Automatisation de tâches répétitives
+
+Codage
+
+Gestion de planning / projet
+
+Analyse de données"
+"Secteur d'activité""Pourcentage"
+"Informatique et télécommunication""50.00%"
+"Recherche""50.00%"
+
+"Génération d'images, de sons, de vidéos
+
+Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Correction et rédaction de texte"
+"Secteur d'activité""Pourcentage"
+"Communication et marketing""100.00%"
+
+"Prise de décision / aide à la décision"
+"Secteur d'activité""Pourcentage"
+"Artisanat""100.00%"
+
+"Automatisation de tâches répétitives
+
+Codage"
+"Secteur d'activité""Pourcentage"
+"Informatique et télécommunication""100.00%"
+
+"Traduction
+
+Correction et rédaction de texte
+
+Automatisation de tâches répétitives
+
+Codage"
+"Secteur d'activité""Pourcentage"
+"Informatique et télécommunication""100.00%"
+
+"J'utilise l'IA - de plus en plus rarement, par choix - après avoir bien investigué et travaillé un sujet pour confronter ma production avec celle de l'IA"
+"Secteur d'activité""Pourcentage"
+"Activités juridiques et comptables""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Prise de décision / aide à la décision"
+"Secteur d'activité""Pourcentage"
+"Communication et marketing""100.00%"
+
+"question technique (mais notre IA n'a jamais la réponse) en plus d'être autrice je travaille dans un grand service public"
+"Secteur d'activité""Pourcentage"
+"Culture et patrimoine""100.00%"
+
+"Traduction"
+"Secteur d'activité""Pourcentage"
+"Traduction""100.00%"
+
+"Automatisation de tâches répétitives
+
+Codage
+
+Brainstorming / me documenter sur un nouvau sujet"
+"Secteur d'activité""Pourcentage"
+"Informatique et télécommunication""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Correction et rédaction de texte
+
+Création de structures de documents pour documentation applicative ou présentations PPT tel'es que comités de suivi"
+"Secteur d'activité""Pourcentage"
+"Informatique et télécommunication""100.00%"
+
+"Gestion relationnelle (chatbot, mail..)"
+"Secteur d'activité""Pourcentage"
+"Santé""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Pour avoir des idées d'activités pédagogiques je peux m'inspirer de ses propositions"
+"Secteur d'activité""Pourcentage"
+"Recherche""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Codage
+
+Analyse de données
+
+Bibliographie et recherche documentaires"
+"Secteur d'activité""Pourcentage"
+"Energie""100.00%"
+
+"Correction et rédaction de texte
+
+Génération d'idées"
+"Secteur d'activité""Pourcentage"
+"Communication et marketing""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Code"
+"Secteur d'activité""Pourcentage"
+"Informatique et télécommunication""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Correction et rédaction de texte
+
+Automatisation de tâches répétitives
+
+Codage
+
+Prise de décision / aide à la décision"
+"Secteur d'activité""Pourcentage"
+"Informatique et télécommunication""100.00%"
+
+"Génération d'images, de sons, de vidéos
+
+Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Correction et rédaction de texte
+
+Gestion relationnelle (chatbot, mail..)
+
+Prise de décision / aide à la décision"
+"Secteur d'activité""Pourcentage"
+"Inactif""100.00%"
+
+"Génération d'images, de sons, de vidéos"
+"Secteur d'activité""Pourcentage"
+"Culture et patrimoine""100.00%"
+
+"Génération d'images, de sons, de vidéos
+
+Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Automatisation de tâches répétitives
+
+Gestion de planning / projet
+
+Analyse de données
+
+Prise de décision / aide à la décision"
+"Secteur d'activité""Pourcentage"
+"Informatique et télécommunication""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+ Codage
+
+Aidé à la rédaction, aide formule Excel,"
+"Secteur d'activité""Pourcentage"
+"Communication et marketing""100.00%"
+
+"Traduction
+
+Gestion relationnelle (chatbot, mail..)"
+"Secteur d'activité""Pourcentage"
+"Artisanat""100.00%"
+
+"Génération d’images, de sons, de vidéos
+
+Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Correction et rédaction de texte
+
+Prise de décision / aide à la décision
+
+Trouver des idées"
+"Secteur d'activité""Pourcentage"
+"Service public, défense et sécurité""100.00%"
+
+"Génération d’images, de sons, de vidéos
+
+j'ai suivi une formation waalaxy. Idem sur les réseaux sociaux qui en sont truffés."
+"Secteur d'activité""Pourcentage"
+"Autres""100.00%"
+
+"Génération d’images, de sons, de vidéos
+
+Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Analyse de données"
+"Secteur d'activité""Pourcentage"
+"Autres""100.00%"
+
+"Quand je recherche des infos précises sur un sujet pointu mais que je ne trouve pas d'infos / les recherches sont trop longues"
+"Secteur d'activité""Pourcentage"
+"Autres""100.00%"
+
+"Génération d’images, de sons, de vidéos
+
+Traduction
+
+Correction et rédaction de texte
+
+Codage"
+"Secteur d'activité""Pourcentage"
+"Maintenance entretien et nettoyage""100.00%"
+
+"Correction et rédaction de texte
+
+Codage
+
+Analyse de données"
+"Secteur d'activité""Pourcentage"
+"Energie""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Analyse de données
+
+Pilotage/contrôle de dispositifs connectés
+
+Prise de décision / aide à la décision"
+"Secteur d'activité""Pourcentage"
+"Informatique et télécommunication""100.00%"
+
+"Traduction
+
+Correction et rédaction de texte
+
+Codage
+
+Prise de décision / aide à la décision"
+"Secteur d'activité""Pourcentage"
+"Informatique et télécommunication""100.00%"
+
+"Génération d’images, de sons, de vidéos
+
+Analyse / Résumé de document (texte, vidéo...)
+
+Correction et rédaction de texte
+
+Analyse de données
+
+Prise de décision / aide à la décision"
+"Secteur d'activité""Pourcentage"
+"Communication et marketing""100.00%"
+
+#Tâche d'IA selon le profession
+
+"Conseiller d'Education Populaire et de Jeunesse (référent départemental Service Civique, engagement, et agent de contrôle d'Accueils Collectifs de Mineurs)"
+"Tâche d'IA""Pourcentage"
+"Correction et rédaction de texte""50.00%"
+"Prise de décision / aide à la décision""50.00%"
+
+"CTO"
+"Tâche d'IA""Pourcentage"
+"Analyse / Résumé de document (texte, vidéo...)""25.00%"
+"Codage""25.00%"
+"Gestion de planning / projet""25.00%"
+"Analyse de données""25.00%"
+
+"Médecin généraliste"
+"Tâche d'IA""Pourcentage"
+"Analyse / Résumé de document (texte, vidéo...)""100.00%"
+
+"Marketing tech // Chargé de communication"
+"Tâche d'IA""Pourcentage"
+"Génération d'images, de sons, de vidéos""11.11%"
+"Analyse / Résumé de document (texte, vidéo...)""11.11%"
+"Traduction""11.11%"
+"Correction et rédaction de texte""11.11%"
+"Automatisation de tâches répétitives""11.11%"
+"Codage""11.11%"
+"Gestion de planning / projet""11.11%"
+"Analyse de données""11.11%"
+"Prise de décision / aide à la décision""11.11%"
+
+"Directeur general"
+"Tâche d'IA""Pourcentage"
+"Analyse / Résumé de document (texte, vidéo...)""50.00%"
+"Correction et rédaction de texte""50.00%"
+
+"Ingénieur"
+"Tâche d'IA""Pourcentage"
+"Codage""33.33%"
+"Analyse de données""33.33%"
+"Recherche documentaire""33.33%"
+
+"Juriste Contentieux"
+"Tâche d'IA""Pourcentage"
+"Automatisation de tâches répétitives""33.33%"
+"Gestion de planning / projet""33.33%"
+"Gestion relationnelle (chatbot, mail..)""33.33%"
+
+"Contrôle de gestion"
+"Tâche d'IA""Pourcentage"
+"Codage""33.33%"
+"Analyse de données""33.33%"
+"Gestion relationnelle (chatbot, mail..)""33.33%"
+
+"Aucune (Etudiant)"
+"Tâche d'IA""Pourcentage"
+"Génération d'images, de sons, de vidéos""20.00%"
+"Analyse / Résumé de document (texte, vidéo...)""20.00%"
+"Traduction""20.00%"
+"Correction et rédaction de texte""20.00%"
+"Gestion relationnelle (chatbot, mail..)""20.00%"
+
+"Recherche cancérologie"
+"Tâche d'IA""Pourcentage"
+"Analyse / Résumé de document (texte, vidéo...)""33.33%"
+"Traduction""33.33%"
+"Analyse de données""33.33%"
+
+"Responsable Climat et biodiversite"
+"Tâche d'IA""Pourcentage"
+"Correction et rédaction de texte""100.00%"
+
+"Ingénieur informaticien"
+"Tâche d'IA""Pourcentage"
+"Analyse / Résumé de document (texte, vidéo...)""16.67%"
+"Traduction""16.67%"
+"Correction et rédaction de texte""16.67%"
+"Automatisation de tâches répétitives""16.67%"
+"Codage""16.67%"
+"Analyse de données""16.67%"
+
+"Étudiant DFGSM3"
+"Tâche d'IA""Pourcentage"
+"Analyse / Résumé de document (texte, vidéo...)""16.67%"
+"Correction et rédaction de texte""16.67%"
+"Automatisation de tâches répétitives""16.67%"
+"Codage""16.67%"
+"Gestion relationnelle (chatbot, mail..)""16.67%"
+"Prise de décision / aide à la décision""16.67%"
+
+"responsable projet"
+"Tâche d'IA""Pourcentage"
+"Codage""100.00%"
+
+"Technicien de laboratoire"
+"Tâche d'IA""Pourcentage"
+"Génération d'images, de sons, de vidéos""50.00%"
+"Correction et rédaction de texte""50.00%"
+
+"Représentant"
+"Tâche d'IA""Pourcentage"
+"Analyse / Résumé de document (texte, vidéo...)""16.67%"
+"Traduction""16.67%"
+"Gestion de planning / projet""16.67%"
+"Analyse de données""16.67%"
+"Gestion relationnelle (chatbot, mail..)""16.67%"
+"Prise de décision / aide à la décision""16.67%"
+
+"post-doctorant en mathématiques"
+"Tâche d'IA""Pourcentage"
+"aide à la recherche bibliographique""100.00%"
+
+"Mathématicien"
+"Tâche d'IA""Pourcentage"
+"Analyse / Résumé de document (texte, vidéo...)""33.33%"
+"Traduction""33.33%"
+"Correction et rédaction de texte""33.33%"
+
+"Artiste 3D"
+"Tâche d'IA""Pourcentage"
+"Génération d'images, de sons, de vidéos""14.29%"
+"Analyse / Résumé de document (texte, vidéo...)""14.29%"
+"Automatisation de tâches répétitives""14.29%"
+"Codage""14.29%"
+"Analyse de données""14.29%"
+"Gestion relationnelle (chatbot, mail..)""14.29%"
+"Prise de décision / aide à la décision""14.29%"
+
+"Responsable de service IT"
+"Tâche d'IA""Pourcentage"
+"Analyse / Résumé de document (texte, vidéo...)""40.00%"
+"Correction et rédaction de texte""40.00%"
+"Création de structures de documents pour documentation applicative ou présentations PPT tel'es que comités de suivi""20.00%"
+
+"Graphiste"
+"Tâche d'IA""Pourcentage"
+"Traduction""33.33%"
+"Automatisation de tâches répétitives""33.33%"
+"Codage""33.33%"
+
+"Commerciale"
+"Tâche d'IA""Pourcentage"
+"Analyse / Résumé de document (texte, vidéo...)""33.33%"
+"Gestion de planning / projet""33.33%"
+"Gestion relationnelle (chatbot, mail..)""33.33%"
+
+"Enseignante en philosophie"
+"Tâche d'IA""Pourcentage"
+"Analyse / Résumé de document (texte, vidéo...)""100.00%"
+
+"Agent des impôts"
+"Tâche d'IA""Pourcentage"
+"Analyse / Résumé de document (texte, vidéo...)""100.00%"
+
+"Conseiller en investissement"
+"Tâche d'IA""Pourcentage"
+"Génération d'images, de sons, de vidéos""20.00%"
+"Analyse / Résumé de document (texte, vidéo...)""20.00%"
+"Correction et rédaction de texte""20.00%"
+"Automatisation de tâches répétitives""20.00%"
+"Prise de décision / aide à la décision""20.00%"
+
+"Enseignante"
+"Tâche d'IA""Pourcentage"
+"Analyse / Résumé de document (texte, vidéo...)""40.00%"
+"Génération d’images, de sons, de vidéos""20.00%"
+"Traduction""20.00%"
+"Analyse de données""20.00%"
+
+"DevOps"
+"Tâche d'IA""Pourcentage"
+"Analyse / Résumé de document (texte, vidéo...)""16.67%"
+"Traduction""16.67%"
+"Correction et rédaction de texte""16.67%"
+"Automatisation de tâches répétitives""16.67%"
+"Analyse de données""16.67%"
+"Prise de décision / aide à la décision""16.67%"
+
+"Musicienne"
+"Tâche d'IA""Pourcentage"
+"J'ai utilisé pour la première fois l'IA dans le sous-titrage automatique sur instagram pour la vidéo teaser de Réveillons-nous, et ai grincé des dents en le faisant.""100.00%"
+
+"Apprenti en IA, ingénieur en cyberdéfense"
+"Tâche d'IA""Pourcentage"
+"Analyse / Résumé de document (texte, vidéo...)""25.00%"
+"Traduction""25.00%"
+"Codage""25.00%"
+"Formation sur de nouveaux sujets.""25.00%"
+
+"Développeur logiciel + administration réseau + électromécanique"
+"Tâche d'IA""Pourcentage"
+"Automatisation de tâches répétitives""33.33%"
+"Analyse de données""33.33%"
+"Prise de décision / aide à la décision""33.33%"
+
+"Ingénieur IA"
+"Tâche d'IA""Pourcentage"
+"Analyse / Résumé de document (texte, vidéo...)""14.29%"
+"Traduction""14.29%"
+"Correction et rédaction de texte""14.29%"
+"Automatisation de tâches répétitives""14.29%"
+"Codage""14.29%"
+"Gestion de planning / projet""14.29%"
+"Analyse de données""14.29%"
+
+"JOURNALISTE"
+"Tâche d'IA""Pourcentage"
+"Génération d'images, de sons, de vidéos""25.00%"
+"Analyse / Résumé de document (texte, vidéo...)""25.00%"
+"Traduction""25.00%"
+"Correction et rédaction de texte""25.00%"
+
+"Animateur Cinéma d'Animation / Storyboarder"
+"Tâche d'IA""Pourcentage"
+"Prise de décision / aide à la décision""100.00%"
+
+"Développeur"
+"Tâche d'IA""Pourcentage"
+"Automatisation de tâches répétitives""50.00%"
+"Codage""50.00%"
+
+"Développeuse web"
+"Tâche d'IA""Pourcentage"
+"Traduction""25.00%"
+"Correction et rédaction de texte""25.00%"
+"Automatisation de tâches répétitives""25.00%"
+"Codage""25.00%"
+
+"Consultante en financements publics"
+"Tâche d'IA""Pourcentage"
+"J'utilise l'IA - de plus en plus rarement, par choix - après avoir bien investigué et travaillé un sujet pour confronter ma production avec celle de l'IA""100.00%"
+
+"autrice de romans pour adultes et enfants/ados"
+"Tâche d'IA""Pourcentage"
+"question technique (mais notre IA n'a jamais la réponse) en plus d'être autrice je travaille dans un grand service public""100.00%"
+
+"Traduction spécialisée dans le domaine juridique et socio-économique"
+"Tâche d'IA""Pourcentage"
+"Traduction""100.00%"
+
+"Étudiant ingénieur"
+"Tâche d'IA""Pourcentage"
+"Automatisation de tâches répétitives""33.33%"
+"Codage""33.33%"
+"Brainstorming / me documenter sur un nouvau sujet""33.33%"
+
+"Directrice Organisation et Qualité"
+"Tâche d'IA""Pourcentage"
+"Analyse / Résumé de document (texte, vidéo...)""33.33%"
+"Traduction""33.33%"
+"Correction et rédaction de texte""33.33%"
+
+"Médecin"
+"Tâche d'IA""Pourcentage"
+"Gestion relationnelle (chatbot, mail..)""100.00%"
+
+"Développeur informatique"
+"Tâche d'IA""Pourcentage"
+"Génération d'images, de sons, de vidéos""11.11%"
+"Analyse / Résumé de document (texte, vidéo...)""11.11%"
+"Traduction""11.11%"
+"Correction et rédaction de texte""11.11%"
+"Automatisation de tâches répétitives""11.11%"
+"Codage""11.11%"
+"Gestion de planning / projet""11.11%"
+"Analyse de données""11.11%"
+"Prise de décision / aide à la décision""11.11%"
+
+"Anthropologue"
+"Tâche d'IA""Pourcentage"
+"Analyse / Résumé de document (texte, vidéo...)""33.33%"
+"Traduction""33.33%"
+"Pour avoir des idées d'activités pédagogiques je peux m'inspirer de ses propositions""33.33%"
+
+"Ingénieur Calcul Structures"
+"Tâche d'IA""Pourcentage"
+"Analyse / Résumé de document (texte, vidéo...)""25.00%"
+"Codage""25.00%"
+"Analyse de données""25.00%"
+"Bibliographie et recherche documentaires""25.00%"
+
+"Motion Designer / Directeur Artistique / Graphiste"
+"Tâche d'IA""Pourcentage"
+"Correction et rédaction de texte""50.00%"
+"Génération d'idées""50.00%"
+
+"Etudiant ingénieur IA"
+"Tâche d'IA""Pourcentage"
+"Analyse / Résumé de document (texte, vidéo...)""33.33%"
+"Traduction""33.33%"
+"Code""33.33%"
+
+"Futur chercheur en IA (explicabilité)"
+"Tâche d'IA""Pourcentage"
+"Analyse / Résumé de document (texte, vidéo...)""14.29%"
+"Traduction""14.29%"
+"Correction et rédaction de texte""14.29%"
+"Automatisation de tâches répétitives""14.29%"
+"Codage""14.29%"
+"Gestion de planning / projet""14.29%"
+"Analyse de données""14.29%"
+
+"Inactif"
+"Tâche d'IA""Pourcentage"
+"Génération d'images, de sons, de vidéos""16.67%"
+"Analyse / Résumé de document (texte, vidéo...)""16.67%"
+"Traduction""16.67%"
+"Correction et rédaction de texte""16.67%"
+"Gestion relationnelle (chatbot, mail..)""16.67%"
+"Prise de décision / aide à la décision""16.67%"
+
+"Motion Designer dans les expos immersives"
+"Tâche d'IA""Pourcentage"
+"Génération d'images, de sons, de vidéos""100.00%"
+
+"Stagiaire en tant que chargé de communication"
+"Tâche d'IA""Pourcentage"
+"Analyse / Résumé de document (texte, vidéo...)""33.33%"
+"Traduction""33.33%"
+"Correction et rédaction de texte""33.33%"
+
+"PDG"
+"Tâche d'IA""Pourcentage"
+"Génération d'images, de sons, de vidéos""14.29%"
+"Analyse / Résumé de document (texte, vidéo...)""14.29%"
+"Traduction""14.29%"
+"Automatisation de tâches répétitives""14.29%"
+"Gestion de planning / projet""14.29%"
+"Analyse de données""14.29%"
+"Prise de décision / aide à la décision""14.29%"
+
+"enseignant contractuel"
+"Tâche d'IA""Pourcentage"
+"Analyse / Résumé de document (texte, vidéo...)""33.33%"
+"Traduction""33.33%"
+"Correction et rédaction de texte""33.33%"
+
+"Assistante de bureau et Couturière"
+"Tâche d'IA""Pourcentage"
+"Traduction""50.00%"
+"Gestion relationnelle (chatbot, mail..)""50.00%"
+
+"ancienne Conceptrice-Rédactrice"
+"Tâche d'IA""Pourcentage"
+"Génération d’images, de sons, de vidéos""50.00%"
+"j'ai suivi une formation waalaxy. Idem sur les réseaux sociaux qui en sont truffés.""50.00%"
+
+"Ancienne Traductrice"
+"Tâche d'IA""Pourcentage"
+"Quand je recherche des infos précises sur un sujet pointu mais que je ne trouve pas d'infos / les recherches sont trop longues""100.00%"
+
+"Ancien étudiant en Informatique"
+"Tâche d'IA""Pourcentage"
+"Génération d’images, de sons, de vidéos""25.00%"
+"Traduction""25.00%"
+"Correction et rédaction de texte""25.00%"
+"Codage""25.00%"
+
+"Ingénieure Pédagogique"
+"Tâche d'IA""Pourcentage"
+"Analyse / Résumé de document (texte, vidéo...)""33.33%"
+"Traduction""33.33%"
+"Correction et rédaction de texte""33.33%"
+
+"Graphiste freelance"
+"Tâche d'IA""Pourcentage"
+"Génération d’images, de sons, de vidéos""20.00%"
+"Analyse / Résumé de document (texte, vidéo...)""20.00%"
+"Correction et rédaction de texte""20.00%"
+"Analyse de données""20.00%"
+"Prise de décision / aide à la décision""20.00%"
+
+#Profession selon : Tâche d'IA
+
+"Correction et rédaction de texte
+
+Prise de décision / aide à la décision"
+"Profession""Pourcentage"
+"Conseiller d'Education Populaire et de Jeunesse (référent départemental Service Civique, engagement, et agent de contrôle d'Accueils Collectifs de Mineurs)""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Codage
+
+Gestion de planning / projet
+
+Analyse de données"
+"Profession""Pourcentage"
+"CTO""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)"
+"Profession""Pourcentage"
+"Médecin généraliste""25.00%"
+"Enseignante en philosophie""25.00%"
+"Agent des impôts""25.00%"
+"Enseignante""25.00%"
+
+"Génération d'images, de sons, de vidéos
+
+Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Correction et rédaction de texte
+
+Automatisation de tâches répétitives
+
+Codage
+
+Gestion de planning / projet
+
+Analyse de données
+
+Prise de décision / aide à la décision"
+"Profession""Pourcentage"
+"Marketing tech // Chargé de communication""50.00%"
+"Développeur informatique""50.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Correction et rédaction de texte"
+"Profession""Pourcentage"
+"Directeur general""50.00%"
+"Responsable de service IT""50.00%"
+
+"Codage
+
+Analyse de données
+
+Recherche documentaire"
+"Profession""Pourcentage"
+"Ingénieur""100.00%"
+
+"Automatisation de tâches répétitives
+
+Gestion de planning / projet
+
+Gestion relationnelle (chatbot, mail..)"
+"Profession""Pourcentage"
+"Juriste Contentieux""100.00%"
+
+"Codage
+
+Analyse de données
+
+Gestion relationnelle (chatbot, mail..)"
+"Profession""Pourcentage"
+"Contrôle de gestion""100.00%"
+
+"Génération d'images, de sons, de vidéos
+
+Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Correction et rédaction de texte
+
+Gestion relationnelle (chatbot, mail..)"
+"Profession""Pourcentage"
+"Aucune (Etudiant)""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Analyse de données"
+"Profession""Pourcentage"
+"Recherche cancérologie""100.00%"
+
+"Correction et rédaction de texte"
+"Profession""Pourcentage"
+"Responsable Climat et biodiversite""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Correction et rédaction de texte
+
+Automatisation de tâches répétitives
+
+Codage
+
+Analyse de données"
+"Profession""Pourcentage"
+"Ingénieur informaticien""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Correction et rédaction de texte
+
+Automatisation de tâches répétitives
+
+Codage
+
+Gestion relationnelle (chatbot, mail..)
+
+Prise de décision / aide à la décision"
+"Profession""Pourcentage"
+"Étudiant DFGSM3""100.00%"
+
+"Codage"
+"Profession""Pourcentage"
+"responsable projet""100.00%"
+
+"Génération d'images, de sons, de vidéos
+
+Correction et rédaction de texte"
+"Profession""Pourcentage"
+"Technicien de laboratoire""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Gestion de planning / projet
+
+Analyse de données
+
+Gestion relationnelle (chatbot, mail..)
+
+Prise de décision / aide à la décision"
+"Profession""Pourcentage"
+"Représentant""100.00%"
+
+"aide à la recherche bibliographique"
+"Profession""Pourcentage"
+"post-doctorant en mathématiques""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Correction et rédaction de texte"
+"Profession""Pourcentage"
+"Mathématicien""20.00%"
+"Directrice Organisation et Qualité""20.00%"
+"Stagiaire en tant que chargé de communication""20.00%"
+"enseignant contractuel""20.00%"
+"Ingénieure Pédagogique""20.00%"
+
+"Génération d'images, de sons, de vidéos
+
+Analyse / Résumé de document (texte, vidéo...)
+
+Automatisation de tâches répétitives
+
+Codage
+
+Analyse de données
+
+Gestion relationnelle (chatbot, mail..)
+
+Prise de décision / aide à la décision"
+"Profession""Pourcentage"
+"Artiste 3D""100.00%"
+
+"Traduction
+
+Automatisation de tâches répétitives
+
+Codage"
+"Profession""Pourcentage"
+"Graphiste""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Gestion de planning / projet
+
+Gestion relationnelle (chatbot, mail..)"
+"Profession""Pourcentage"
+"Commerciale""100.00%"
+
+"Génération d'images, de sons, de vidéos
+
+Analyse / Résumé de document (texte, vidéo...)
+
+Correction et rédaction de texte
+
+Automatisation de tâches répétitives
+
+Prise de décision / aide à la décision"
+"Profession""Pourcentage"
+"Conseiller en investissement""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Correction et rédaction de texte
+
+Automatisation de tâches répétitives
+
+Analyse de données
+
+Prise de décision / aide à la décision"
+"Profession""Pourcentage"
+"DevOps""100.00%"
+
+"J'ai utilisé pour la première fois l'IA dans le sous-titrage automatique sur instagram pour la vidéo teaser de Réveillons-nous, et ai grincé des dents en le faisant."
+"Profession""Pourcentage"
+"Musicienne""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Codage
+
+Formation sur de nouveaux sujets."
+"Profession""Pourcentage"
+"Apprenti en IA, ingénieur en cyberdéfense""100.00%"
+
+"Automatisation de tâches répétitives
+
+Analyse de données
+
+Prise de décision / aide à la décision"
+"Profession""Pourcentage"
+"Développeur logiciel + administration réseau + électromécanique""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Correction et rédaction de texte
+
+Automatisation de tâches répétitives
+
+Codage
+
+Gestion de planning / projet
+
+Analyse de données"
+"Profession""Pourcentage"
+"Ingénieur IA""50.00%"
+"Futur chercheur en IA (explicabilité)""50.00%"
+
+"Génération d'images, de sons, de vidéos
+
+Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Correction et rédaction de texte"
+"Profession""Pourcentage"
+"JOURNALISTE""100.00%"
+
+"Prise de décision / aide à la décision"
+"Profession""Pourcentage"
+"Animateur Cinéma d'Animation / Storyboarder""100.00%"
+
+"Automatisation de tâches répétitives
+
+Codage"
+"Profession""Pourcentage"
+"Développeur""100.00%"
+
+"Traduction
+
+Correction et rédaction de texte
+
+Automatisation de tâches répétitives
+
+Codage"
+"Profession""Pourcentage"
+"Développeuse web""100.00%"
+
+"J'utilise l'IA - de plus en plus rarement, par choix - après avoir bien investigué et travaillé un sujet pour confronter ma production avec celle de l'IA"
+"Profession""Pourcentage"
+"Consultante en financements publics""100.00%"
+
+"question technique (mais notre IA n'a jamais la réponse) en plus d'être autrice je travaille dans un grand service public"
+"Profession""Pourcentage"
+"autrice de romans pour adultes et enfants/ados""100.00%"
+
+"Traduction"
+"Profession""Pourcentage"
+"Traduction spécialisée dans le domaine juridique et socio-économique""100.00%"
+
+"Automatisation de tâches répétitives
+
+Codage
+
+Brainstorming / me documenter sur un nouvau sujet"
+"Profession""Pourcentage"
+"Étudiant ingénieur""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Correction et rédaction de texte
+
+Création de structures de documents pour documentation applicative ou présentations PPT tel'es que comités de suivi"
+"Profession""Pourcentage"
+"Responsable de service IT""100.00%"
+
+"Gestion relationnelle (chatbot, mail..)"
+"Profession""Pourcentage"
+"Médecin""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Pour avoir des idées d'activités pédagogiques je peux m'inspirer de ses propositions"
+"Profession""Pourcentage"
+"Anthropologue""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Codage
+
+Analyse de données
+
+Bibliographie et recherche documentaires"
+"Profession""Pourcentage"
+"Ingénieur Calcul Structures""100.00%"
+
+"Correction et rédaction de texte
+
+Génération d'idées"
+"Profession""Pourcentage"
+"Motion Designer / Directeur Artistique / Graphiste""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Code"
+"Profession""Pourcentage"
+"Etudiant ingénieur IA""100.00%"
+
+"Génération d'images, de sons, de vidéos
+
+Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Correction et rédaction de texte
+
+Gestion relationnelle (chatbot, mail..)
+
+Prise de décision / aide à la décision"
+"Profession""Pourcentage"
+"Inactif""100.00%"
+
+"Génération d'images, de sons, de vidéos"
+"Profession""Pourcentage"
+"Motion Designer dans les expos immersives""100.00%"
+
+"Génération d'images, de sons, de vidéos
+
+Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Automatisation de tâches répétitives
+
+Gestion de planning / projet
+
+Analyse de données
+
+Prise de décision / aide à la décision"
+"Profession""Pourcentage"
+"PDG""100.00%"
+
+"Traduction
+
+Gestion relationnelle (chatbot, mail..)"
+"Profession""Pourcentage"
+"Assistante de bureau et Couturière""100.00%"
+
+"Génération d’images, de sons, de vidéos
+
+j'ai suivi une formation waalaxy. Idem sur les réseaux sociaux qui en sont truffés."
+"Profession""Pourcentage"
+"ancienne Conceptrice-Rédactrice""100.00%"
+
+"Génération d’images, de sons, de vidéos
+
+Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Analyse de données"
+"Profession""Pourcentage"
+"Enseignante""100.00%"
+
+"Quand je recherche des infos précises sur un sujet pointu mais que je ne trouve pas d'infos / les recherches sont trop longues"
+"Profession""Pourcentage"
+"Ancienne Traductrice""100.00%"
+
+"Génération d’images, de sons, de vidéos
+
+Traduction
+
+Correction et rédaction de texte
+
+Codage"
+"Profession""Pourcentage"
+"Ancien étudiant en Informatique""100.00%"
+
+"Génération d’images, de sons, de vidéos
+
+Analyse / Résumé de document (texte, vidéo...)
+
+Correction et rédaction de texte
+
+Analyse de données
+
+Prise de décision / aide à la décision"
+"Profession""Pourcentage"
+"Graphiste freelance""100.00%"
+
+#Tâche d'IA selon le genre
+
+"Homme"
+"Tâche d'IA""Pourcentage"
+"Analyse / Résumé de document (texte, vidéo...)""16.23%"
+"Correction et rédaction de texte""15.58%"
+"Traduction""12.99%"
+"Codage""11.04%"
+"Prise de décision / aide à la décision""9.09%"
+"Analyse de données""8.44%"
+"Automatisation de tâches répétitives""8.44%"
+"Génération d'images, de sons, de vidéos""3.90%"
+"Gestion de planning / projet""3.25%"
+"Gestion relationnelle (chatbot, mail..)""3.25%"
+"Génération d’images, de sons, de vidéos""1.30%"
+"aucune, ce sont mes prévisions""0.65%"
+"Recherche documentaire""0.65%"
+"aide à la recherche bibliographique""0.65%"
+"Formation sur de nouveaux sujets.""0.65%"
+"Brainstorming / me documenter sur un nouvau sujet""0.65%"
+"Bibliographie et recherche documentaires""0.65%"
+"Génération d'idées""0.65%"
+"Code""0.65%"
+"Trouver des idées""0.65%"
+"Pilotage/contrôle de dispositifs connectés""0.65%"
+
+"autre"
+"Tâche d'IA""Pourcentage"
+"Génération d'images, de sons, de vidéos""11.11%"
+"Analyse / Résumé de document (texte, vidéo...)""11.11%"
+"Traduction""11.11%"
+"Correction et rédaction de texte""11.11%"
+"Automatisation de tâches répétitives""11.11%"
+"Codage""11.11%"
+"Gestion de planning / projet""11.11%"
+"Analyse de données""11.11%"
+"Prise de décision / aide à la décision""11.11%"
+
+"Femme"
+"Tâche d'IA""Pourcentage"
+"Analyse / Résumé de document (texte, vidéo...)""20.83%"
+"Traduction""12.50%"
+"Correction et rédaction de texte""9.72%"
+"Analyse de données""8.33%"
+"Gestion relationnelle (chatbot, mail..)""6.94%"
+"Codage""6.94%"
+"Automatisation de tâches répétitives""5.56%"
+"Prise de décision / aide à la décision""5.56%"
+"Gestion de planning / projet""4.17%"
+"Génération d'images, de sons, de vidéos""4.17%"
+"Génération d’images, de sons, de vidéos""4.17%"
+"J'ai utilisé pour la première fois l'IA dans le sous-titrage automatique sur instagram pour la vidéo teaser de Réveillons-nous, et ai grincé des dents en le faisant.""1.39%"
+"J'utilise l'IA - de plus en plus rarement, par choix - après avoir bien investigué et travaillé un sujet pour confronter ma production avec celle de l'IA""1.39%"
+"question technique (mais notre IA n'a jamais la réponse) en plus d'être autrice je travaille dans un grand service public""1.39%"
+"Création de structures de documents pour documentation applicative ou présentations PPT tel'es que comités de suivi""1.39%"
+"Pour avoir des idées d'activités pédagogiques je peux m'inspirer de ses propositions""1.39%"
+"Aidé à la rédaction, aide formule Excel,""1.39%"
+"j'ai suivi une formation waalaxy. Idem sur les réseaux sociaux qui en sont truffés.""1.39%"
+"Quand je recherche des infos précises sur un sujet pointu mais que je ne trouve pas d'infos / les recherches sont trop longues""1.39%"
+
+#Genre selon : Tâche d'IA
+
+"Correction et rédaction de texte
+
+Prise de décision / aide à la décision"
+"Genre""Pourcentage"
+"Homme""100.00%"
+
+"aucune, ce sont mes prévisions"
+"Genre""Pourcentage"
+"Homme""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Codage
+
+Gestion de planning / projet
+
+Analyse de données"
+"Genre""Pourcentage"
+"Homme""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)"
+"Genre""Pourcentage"
+"Homme""50.00%"
+"Femme""50.00%"
+
+"Génération d'images, de sons, de vidéos
+
+Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Correction et rédaction de texte
+
+Automatisation de tâches répétitives
+
+Codage
+
+Gestion de planning / projet
+
+Analyse de données
+
+Prise de décision / aide à la décision"
+"Genre""Pourcentage"
+"autre""50.00%"
+"Homme""50.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Correction et rédaction de texte"
+"Genre""Pourcentage"
+"Homme""50.00%"
+"Femme""50.00%"
+
+"Codage
+
+Analyse de données
+
+Recherche documentaire"
+"Genre""Pourcentage"
+"Homme""100.00%"
+
+"Automatisation de tâches répétitives
+
+Gestion de planning / projet
+
+Gestion relationnelle (chatbot, mail..)"
+"Genre""Pourcentage"
+"Femme""100.00%"
+
+"Codage
+
+Analyse de données
+
+Gestion relationnelle (chatbot, mail..)"
+"Genre""Pourcentage"
+"Femme""100.00%"
+
+"Génération d'images, de sons, de vidéos
+
+Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Correction et rédaction de texte
+
+Gestion relationnelle (chatbot, mail..)"
+"Genre""Pourcentage"
+"Homme""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Analyse de données"
+"Genre""Pourcentage"
+"Femme""100.00%"
+
+"Correction et rédaction de texte"
+"Genre""Pourcentage"
+"Femme""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Correction et rédaction de texte
+
+Automatisation de tâches répétitives
+
+Codage
+
+Analyse de données"
+"Genre""Pourcentage"
+"Homme""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Correction et rédaction de texte
+
+Automatisation de tâches répétitives
+
+Codage
+
+Gestion relationnelle (chatbot, mail..)
+
+Prise de décision / aide à la décision"
+"Genre""Pourcentage"
+"Homme""100.00%"
+
+"Codage"
+"Genre""Pourcentage"
+"Femme""100.00%"
+
+"Correction et rédaction de texte
+
+Automatisation de tâches répétitives
+
+Codage
+
+Analyse de données
+
+Prise de décision / aide à la décision"
+"Genre""Pourcentage"
+"Homme""100.00%"
+
+"Génération d'images, de sons, de vidéos
+
+Correction et rédaction de texte"
+"Genre""Pourcentage"
+"Homme""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Gestion de planning / projet
+
+Analyse de données
+
+Gestion relationnelle (chatbot, mail..)
+
+Prise de décision / aide à la décision"
+"Genre""Pourcentage"
+"Homme""100.00%"
+
+"aide à la recherche bibliographique"
+"Genre""Pourcentage"
+"Homme""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Correction et rédaction de texte"
+"Genre""Pourcentage"
+"Homme""66.67%"
+"Femme""33.33%"
+
+"Génération d'images, de sons, de vidéos
+
+Analyse / Résumé de document (texte, vidéo...)
+
+Automatisation de tâches répétitives
+
+Codage
+
+Analyse de données
+
+Gestion relationnelle (chatbot, mail..)
+
+Prise de décision / aide à la décision"
+"Genre""Pourcentage"
+"Femme""100.00%"
+
+"Traduction
+
+Automatisation de tâches répétitives
+
+Codage"
+"Genre""Pourcentage"
+"Homme""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Gestion de planning / projet
+
+Gestion relationnelle (chatbot, mail..)"
+"Genre""Pourcentage"
+"Femme""100.00%"
+
+"Génération d'images, de sons, de vidéos
+
+Analyse / Résumé de document (texte, vidéo...)
+
+Correction et rédaction de texte
+
+Automatisation de tâches répétitives
+
+Prise de décision / aide à la décision"
+"Genre""Pourcentage"
+"Homme""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Correction et rédaction de texte
+
+Automatisation de tâches répétitives
+
+Analyse de données
+
+Prise de décision / aide à la décision"
+"Genre""Pourcentage"
+"Homme""100.00%"
+
+"J'ai utilisé pour la première fois l'IA dans le sous-titrage automatique sur instagram pour la vidéo teaser de Réveillons-nous, et ai grincé des dents en le faisant."
+"Genre""Pourcentage"
+"Femme""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Codage
+
+Formation sur de nouveaux sujets."
+"Genre""Pourcentage"
+"Homme""100.00%"
+
+"Automatisation de tâches répétitives
+
+Analyse de données
+
+Prise de décision / aide à la décision"
+"Genre""Pourcentage"
+"Homme""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Correction et rédaction de texte
+
+Automatisation de tâches répétitives
+
+Codage
+
+Gestion de planning / projet
+
+Analyse de données"
+"Genre""Pourcentage"
+"Homme""100.00%"
+
+"Génération d'images, de sons, de vidéos
+
+Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Correction et rédaction de texte"
+"Genre""Pourcentage"
+"Homme""100.00%"
+
+"Prise de décision / aide à la décision"
+"Genre""Pourcentage"
+"Homme""100.00%"
+
+"Automatisation de tâches répétitives
+
+Codage"
+"Genre""Pourcentage"
+"Homme""100.00%"
+
+"Traduction
+
+Correction et rédaction de texte
+
+Automatisation de tâches répétitives
+
+Codage"
+"Genre""Pourcentage"
+"Femme""100.00%"
+
+"J'utilise l'IA - de plus en plus rarement, par choix - après avoir bien investigué et travaillé un sujet pour confronter ma production avec celle de l'IA"
+"Genre""Pourcentage"
+"Femme""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Prise de décision / aide à la décision"
+"Genre""Pourcentage"
+"Femme""100.00%"
+
+"question technique (mais notre IA n'a jamais la réponse) en plus d'être autrice je travaille dans un grand service public"
+"Genre""Pourcentage"
+"Femme""100.00%"
+
+"Traduction"
+"Genre""Pourcentage"
+"Femme""100.00%"
+
+"Automatisation de tâches répétitives
+
+Codage
+
+Brainstorming / me documenter sur un nouvau sujet"
+"Genre""Pourcentage"
+"Homme""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Correction et rédaction de texte
+
+Création de structures de documents pour documentation applicative ou présentations PPT tel'es que comités de suivi"
+"Genre""Pourcentage"
+"Femme""100.00%"
+
+"Gestion relationnelle (chatbot, mail..)"
+"Genre""Pourcentage"
+"Homme""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Pour avoir des idées d'activités pédagogiques je peux m'inspirer de ses propositions"
+"Genre""Pourcentage"
+"Femme""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Codage
+
+Analyse de données
+
+Bibliographie et recherche documentaires"
+"Genre""Pourcentage"
+"Homme""100.00%"
+
+"Correction et rédaction de texte
+
+Génération d'idées"
+"Genre""Pourcentage"
+"Homme""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Code"
+"Genre""Pourcentage"
+"Homme""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Correction et rédaction de texte
+
+Automatisation de tâches répétitives
+
+Codage
+
+Prise de décision / aide à la décision"
+"Genre""Pourcentage"
+"Homme""100.00%"
+
+"Génération d'images, de sons, de vidéos
+
+Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Correction et rédaction de texte
+
+Gestion relationnelle (chatbot, mail..)
+
+Prise de décision / aide à la décision"
+"Genre""Pourcentage"
+"Homme""100.00%"
+
+"Génération d'images, de sons, de vidéos"
+"Genre""Pourcentage"
+"Femme""100.00%"
+
+"Génération d'images, de sons, de vidéos
+
+Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Automatisation de tâches répétitives
+
+Gestion de planning / projet
+
+Analyse de données
+
+Prise de décision / aide à la décision"
+"Genre""Pourcentage"
+"Femme""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+ Codage
+
+Aidé à la rédaction, aide formule Excel,"
+"Genre""Pourcentage"
+"Femme""100.00%"
+
+"Traduction
+
+Gestion relationnelle (chatbot, mail..)"
+"Genre""Pourcentage"
+"Femme""100.00%"
+
+"Génération d’images, de sons, de vidéos
+
+Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Correction et rédaction de texte
+
+Prise de décision / aide à la décision
+
+Trouver des idées"
+"Genre""Pourcentage"
+"Homme""100.00%"
+
+"Génération d’images, de sons, de vidéos
+
+j'ai suivi une formation waalaxy. Idem sur les réseaux sociaux qui en sont truffés."
+"Genre""Pourcentage"
+"Femme""100.00%"
+
+"Génération d’images, de sons, de vidéos
+
+Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Analyse de données"
+"Genre""Pourcentage"
+"Femme""100.00%"
+
+"Quand je recherche des infos précises sur un sujet pointu mais que je ne trouve pas d'infos / les recherches sont trop longues"
+"Genre""Pourcentage"
+"Femme""100.00%"
+
+"Génération d’images, de sons, de vidéos
+
+Traduction
+
+Correction et rédaction de texte
+
+Codage"
+"Genre""Pourcentage"
+"Homme""100.00%"
+
+"Correction et rédaction de texte
+
+Codage
+
+Analyse de données"
+"Genre""Pourcentage"
+"Homme""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Analyse de données
+
+Pilotage/contrôle de dispositifs connectés
+
+Prise de décision / aide à la décision"
+"Genre""Pourcentage"
+"Homme""100.00%"
+
+"Traduction
+
+Correction et rédaction de texte
+
+Codage
+
+Prise de décision / aide à la décision"
+"Genre""Pourcentage"
+"Homme""100.00%"
+
+"Génération d’images, de sons, de vidéos
+
+Analyse / Résumé de document (texte, vidéo...)
+
+Correction et rédaction de texte
+
+Analyse de données
+
+Prise de décision / aide à la décision"
+"Genre""Pourcentage"
+"Femme""100.00%"
+
+#Tâche d'IA selon l'âge
+
+"10-19 ans"
+"Tâche d'IA""Pourcentage"
+"Analyse / Résumé de document (texte, vidéo...)""21.43%"
+"Correction et rédaction de texte""21.43%"
+"Traduction""14.29%"
+"Gestion relationnelle (chatbot, mail..)""14.29%"
+"Génération d'images, de sons, de vidéos""7.14%"
+"Automatisation de tâches répétitives""7.14%"
+"Codage""7.14%"
+"Prise de décision / aide à la décision""7.14%"
+
+"20-29 ans"
+"Tâche d'IA""Pourcentage"
+"Analyse / Résumé de document (texte, vidéo...)""15.69%"
+"Traduction""15.69%"
+"Codage""11.76%"
+"Correction et rédaction de texte""11.76%"
+"Prise de décision / aide à la décision""7.84%"
+"Automatisation de tâches répétitives""7.84%"
+"Gestion de planning / projet""5.88%"
+"Génération d'images, de sons, de vidéos""5.88%"
+"Gestion relationnelle (chatbot, mail..)""3.92%"
+"Analyse de données""3.92%"
+"aucune, ce sont mes prévisions""1.96%"
+"Formation sur de nouveaux sujets.""1.96%"
+"Brainstorming / me documenter sur un nouvau sujet""1.96%"
+"Code""1.96%"
+"Génération d’images, de sons, de vidéos""1.96%"
+
+"30-39 ans"
+"Tâche d'IA""Pourcentage"
+"Analyse / Résumé de document (texte, vidéo...)""14.44%"
+"Correction et rédaction de texte""13.33%"
+"Codage""12.22%"
+"Traduction""11.11%"
+"Prise de décision / aide à la décision""10.00%"
+"Analyse de données""10.00%"
+"Automatisation de tâches répétitives""10.00%"
+"Génération d'images, de sons, de vidéos""4.44%"
+"Gestion de planning / projet""3.33%"
+"Gestion relationnelle (chatbot, mail..)""2.22%"
+"Génération d’images, de sons, de vidéos""2.22%"
+"Recherche documentaire""1.11%"
+"aide à la recherche bibliographique""1.11%"
+"J'ai utilisé pour la première fois l'IA dans le sous-titrage automatique sur instagram pour la vidéo teaser de Réveillons-nous, et ai grincé des dents en le faisant.""1.11%"
+"Pour avoir des idées d'activités pédagogiques je peux m'inspirer de ses propositions""1.11%"
+"Bibliographie et recherche documentaires""1.11%"
+"j'ai suivi une formation waalaxy. Idem sur les réseaux sociaux qui en sont truffés.""1.11%"
+
+"40-49 ans"
+"Tâche d'IA""Pourcentage"
+"Analyse / Résumé de document (texte, vidéo...)""22.92%"
+"Correction et rédaction de texte""16.67%"
+"Traduction""12.50%"
+"Analyse de données""10.42%"
+"Automatisation de tâches répétitives""6.25%"
+"Codage""6.25%"
+"Prise de décision / aide à la décision""6.25%"
+"Gestion de planning / projet""4.17%"
+"Gestion relationnelle (chatbot, mail..)""2.08%"
+"J'utilise l'IA - de plus en plus rarement, par choix - après avoir bien investigué et travaillé un sujet pour confronter ma production avec celle de l'IA""2.08%"
+"Création de structures de documents pour documentation applicative ou présentations PPT tel'es que comités de suivi""2.08%"
+"Génération d'idées""2.08%"
+"Génération d'images, de sons, de vidéos""2.08%"
+"Aidé à la rédaction, aide formule Excel,""2.08%"
+"Génération d’images, de sons, de vidéos""2.08%"
+
+"50-59 ans"
+"Tâche d'IA""Pourcentage"
+"Analyse / Résumé de document (texte, vidéo...)""18.18%"
+"Gestion relationnelle (chatbot, mail..)""13.64%"
+"Analyse de données""13.64%"
+"Codage""9.09%"
+"Correction et rédaction de texte""9.09%"
+"Automatisation de tâches répétitives""4.55%"
+"Gestion de planning / projet""4.55%"
+"Génération d'images, de sons, de vidéos""4.55%"
+"Traduction""4.55%"
+"question technique (mais notre IA n'a jamais la réponse) en plus d'être autrice je travaille dans un grand service public""4.55%"
+"Quand je recherche des infos précises sur un sujet pointu mais que je ne trouve pas d'infos / les recherches sont trop longues""4.55%"
+"Pilotage/contrôle de dispositifs connectés""4.55%"
+"Prise de décision / aide à la décision""4.55%"
+
+"60-69 ans"
+"Tâche d'IA""Pourcentage"
+"Analyse / Résumé de document (texte, vidéo...)""22.22%"
+"Traduction""22.22%"
+"Analyse de données""11.11%"
+"Génération d’images, de sons, de vidéos""11.11%"
+"Correction et rédaction de texte""11.11%"
+"Prise de décision / aide à la décision""11.11%"
+"Trouver des idées""11.11%"
+
+"70-79 ans"
+"Tâche d'IA""Pourcentage"
+"Traduction""100.00%"
+
+#Répartition des âges selon : Tâche d'IA
+
+"Correction et rédaction de texte
+
+Prise de décision / aide à la décision"
+"Âge""Pourcentage"
+"30-39""100.00%"
+
+"aucune, ce sont mes prévisions"
+"Âge""Pourcentage"
+"20-29""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Codage
+
+Gestion de planning / projet
+
+Analyse de données"
+"Âge""Pourcentage"
+"30-39""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)"
+"Âge""Pourcentage"
+"50-59""50.00%"
+"30-39""25.00%"
+"40-49""25.00%"
+
+"Génération d'images, de sons, de vidéos
+
+Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Correction et rédaction de texte
+
+Automatisation de tâches répétitives
+
+Codage
+
+Gestion de planning / projet
+
+Analyse de données
+
+Prise de décision / aide à la décision"
+"Âge""Pourcentage"
+"30-39""50.00%"
+"20-29""50.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Correction et rédaction de texte"
+"Âge""Pourcentage"
+"40-49""100.00%"
+
+"Codage
+
+Analyse de données
+
+Recherche documentaire"
+"Âge""Pourcentage"
+"30-39""100.00%"
+
+"Automatisation de tâches répétitives
+
+Gestion de planning / projet
+
+Gestion relationnelle (chatbot, mail..)"
+"Âge""Pourcentage"
+"50-59""100.00%"
+
+"Codage
+
+Analyse de données
+
+Gestion relationnelle (chatbot, mail..)"
+"Âge""Pourcentage"
+"50-59""100.00%"
+
+"Génération d'images, de sons, de vidéos
+
+Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Correction et rédaction de texte
+
+Gestion relationnelle (chatbot, mail..)"
+"Âge""Pourcentage"
+"10-19""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Analyse de données"
+"Âge""Pourcentage"
+"60-69""100.00%"
+
+"Correction et rédaction de texte"
+"Âge""Pourcentage"
+"40-49""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Correction et rédaction de texte
+
+Automatisation de tâches répétitives
+
+Codage
+
+Analyse de données"
+"Âge""Pourcentage"
+"40-49""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Correction et rédaction de texte
+
+Automatisation de tâches répétitives
+
+Codage
+
+Gestion relationnelle (chatbot, mail..)
+
+Prise de décision / aide à la décision"
+"Âge""Pourcentage"
+"10-19""100.00%"
+
+"Codage"
+"Âge""Pourcentage"
+"40-49""100.00%"
+
+"Correction et rédaction de texte
+
+Automatisation de tâches répétitives
+
+Codage
+
+Analyse de données
+
+Prise de décision / aide à la décision"
+"Âge""Pourcentage"
+"30-39""100.00%"
+
+"Génération d'images, de sons, de vidéos
+
+Correction et rédaction de texte"
+"Âge""Pourcentage"
+"30-39""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Gestion de planning / projet
+
+Analyse de données
+
+Gestion relationnelle (chatbot, mail..)
+
+Prise de décision / aide à la décision"
+"Âge""Pourcentage"
+"40-49""100.00%"
+
+"aide à la recherche bibliographique"
+"Âge""Pourcentage"
+"30-39""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Correction et rédaction de texte"
+"Âge""Pourcentage"
+"40-49""33.33%"
+"30-39""33.33%"
+"20-29""16.67%"
+"10-19""16.67%"
+
+"Génération d'images, de sons, de vidéos
+
+Analyse / Résumé de document (texte, vidéo...)
+
+Automatisation de tâches répétitives
+
+Codage
+
+Analyse de données
+
+Gestion relationnelle (chatbot, mail..)
+
+Prise de décision / aide à la décision"
+"Âge""Pourcentage"
+"30-39""100.00%"
+
+"Traduction
+
+Automatisation de tâches répétitives
+
+Codage"
+"Âge""Pourcentage"
+"30-39""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Gestion de planning / projet
+
+Gestion relationnelle (chatbot, mail..)"
+"Âge""Pourcentage"
+"20-29""100.00%"
+
+"Génération d'images, de sons, de vidéos
+
+Analyse / Résumé de document (texte, vidéo...)
+
+Correction et rédaction de texte
+
+Automatisation de tâches répétitives
+
+Prise de décision / aide à la décision"
+"Âge""Pourcentage"
+"30-39""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Correction et rédaction de texte
+
+Automatisation de tâches répétitives
+
+Analyse de données
+
+Prise de décision / aide à la décision"
+"Âge""Pourcentage"
+"30-39""100.00%"
+
+"J'ai utilisé pour la première fois l'IA dans le sous-titrage automatique sur instagram pour la vidéo teaser de Réveillons-nous, et ai grincé des dents en le faisant."
+"Âge""Pourcentage"
+"30-39""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Codage
+
+Formation sur de nouveaux sujets."
+"Âge""Pourcentage"
+"20-29""100.00%"
+
+"Automatisation de tâches répétitives
+
+Analyse de données
+
+Prise de décision / aide à la décision"
+"Âge""Pourcentage"
+"40-49""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Correction et rédaction de texte
+
+Automatisation de tâches répétitives
+
+Codage
+
+Gestion de planning / projet
+
+Analyse de données"
+"Âge""Pourcentage"
+"30-39""50.00%"
+"20-29""50.00%"
+
+"Génération d'images, de sons, de vidéos
+
+Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Correction et rédaction de texte"
+"Âge""Pourcentage"
+"50-59""100.00%"
+
+"Prise de décision / aide à la décision"
+"Âge""Pourcentage"
+"20-29""100.00%"
+
+"Automatisation de tâches répétitives
+
+Codage"
+"Âge""Pourcentage"
+"30-39""100.00%"
+
+"Traduction
+
+Correction et rédaction de texte
+
+Automatisation de tâches répétitives
+
+Codage"
+"Âge""Pourcentage"
+"30-39""100.00%"
+
+"J'utilise l'IA - de plus en plus rarement, par choix - après avoir bien investigué et travaillé un sujet pour confronter ma production avec celle de l'IA"
+"Âge""Pourcentage"
+"40-49""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Prise de décision / aide à la décision"
+"Âge""Pourcentage"
+"30-39""100.00%"
+
+"question technique (mais notre IA n'a jamais la réponse) en plus d'être autrice je travaille dans un grand service public"
+"Âge""Pourcentage"
+"50-59""100.00%"
+
+"Traduction"
+"Âge""Pourcentage"
+"70-79""100.00%"
+
+"Automatisation de tâches répétitives
+
+Codage
+
+Brainstorming / me documenter sur un nouvau sujet"
+"Âge""Pourcentage"
+"20-29""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Correction et rédaction de texte
+
+Création de structures de documents pour documentation applicative ou présentations PPT tel'es que comités de suivi"
+"Âge""Pourcentage"
+"40-49""100.00%"
+
+"Gestion relationnelle (chatbot, mail..)"
+"Âge""Pourcentage"
+"50-59""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Pour avoir des idées d'activités pédagogiques je peux m'inspirer de ses propositions"
+"Âge""Pourcentage"
+"30-39""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Codage
+
+Analyse de données
+
+Bibliographie et recherche documentaires"
+"Âge""Pourcentage"
+"30-39""100.00%"
+
+"Correction et rédaction de texte
+
+Génération d'idées"
+"Âge""Pourcentage"
+"40-49""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Code"
+"Âge""Pourcentage"
+"20-29""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Correction et rédaction de texte
+
+Automatisation de tâches répétitives
+
+Codage
+
+Prise de décision / aide à la décision"
+"Âge""Pourcentage"
+"20-29""100.00%"
+
+"Génération d'images, de sons, de vidéos
+
+Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Correction et rédaction de texte
+
+Gestion relationnelle (chatbot, mail..)
+
+Prise de décision / aide à la décision"
+"Âge""Pourcentage"
+"20-29""100.00%"
+
+"Génération d'images, de sons, de vidéos"
+"Âge""Pourcentage"
+"20-29""100.00%"
+
+"Génération d'images, de sons, de vidéos
+
+Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Automatisation de tâches répétitives
+
+Gestion de planning / projet
+
+Analyse de données
+
+Prise de décision / aide à la décision"
+"Âge""Pourcentage"
+"40-49""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+ Codage
+
+Aidé à la rédaction, aide formule Excel,"
+"Âge""Pourcentage"
+"40-49""100.00%"
+
+"Traduction
+
+Gestion relationnelle (chatbot, mail..)"
+"Âge""Pourcentage"
+"30-39""100.00%"
+
+"Génération d’images, de sons, de vidéos
+
+Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Correction et rédaction de texte
+
+Prise de décision / aide à la décision
+
+Trouver des idées"
+"Âge""Pourcentage"
+"60-69""100.00%"
+
+"Génération d’images, de sons, de vidéos
+
+j'ai suivi une formation waalaxy. Idem sur les réseaux sociaux qui en sont truffés."
+"Âge""Pourcentage"
+"30-39""100.00%"
+
+"Génération d’images, de sons, de vidéos
+
+Analyse / Résumé de document (texte, vidéo...)
+
+Traduction
+
+Analyse de données"
+"Âge""Pourcentage"
+"40-49""100.00%"
+
+"Quand je recherche des infos précises sur un sujet pointu mais que je ne trouve pas d'infos / les recherches sont trop longues"
+"Âge""Pourcentage"
+"50-59""100.00%"
+
+"Génération d’images, de sons, de vidéos
+
+Traduction
+
+Correction et rédaction de texte
+
+Codage"
+"Âge""Pourcentage"
+"20-29""100.00%"
+
+"Correction et rédaction de texte
+
+Codage
+
+Analyse de données"
+"Âge""Pourcentage"
+"50-59""100.00%"
+
+"Analyse / Résumé de document (texte, vidéo...)
+
+Analyse de données
+
+Pilotage/contrôle de dispositifs connectés
+
+Prise de décision / aide à la décision"
+"Âge""Pourcentage"
+"50-59""100.00%"
+
+"Traduction
+
+Correction et rédaction de texte
+
+Codage
+
+Prise de décision / aide à la décision"
+"Âge""Pourcentage"
+"30-39""100.00%"
+
+"Génération d’images, de sons, de vidéos
+
+Analyse / Résumé de document (texte, vidéo...)
+
+Correction et rédaction de texte
+
+Analyse de données
+
+Prise de décision / aide à la décision"
+"Âge""Pourcentage"
+"30-39""100.00%"
+
